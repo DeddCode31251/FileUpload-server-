@@ -4,6 +4,13 @@ A simple file server built with Node.js core modules.
 
 This project demonstrates how `http`, `url`, `events`, `fs`, and Node.js streams can work together without using Express or other web frameworks.
 
+## Images
+<img width="328" height="92" alt="Screenshot From 2026-09-29 16-35-03" src="https://github.com/user-attachments/assets/e4df24b9-f300-493a-811e-c95e73dc9a67" />
+<img width="549" height="285" alt="Screenshot From 2026-09-29 16-35-11" src="https://github.com/user-attachments/assets/83e4299e-5475-46a7-907b-8ea7b51110dd" />
+<img width="390" height="31" alt="Screenshot From 2026-09-29 16-35-34" src="https://github.com/user-attachments/assets/89067c41-2603-4438-8589-527a71b5895f" />
+<img width="267" height="29" alt="Screenshot From 2026-09-29 16-35-54" src="https://github.com/user-attachments/assets/ab890246-a845-4d8a-9258-9e4ff883aa60" />
+
+
 ## Features
 
 * HTTP server using Node.js `http`
